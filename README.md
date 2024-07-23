@@ -1,4 +1,4 @@
-#These are my projects from the CS50 Course 
+#These are my Django and JavaScript with sql projects from the CS50 Course 
 
 Link for Commerce/Auctions is https://youtu.be/O22IUOGuqC4
 
